@@ -11,7 +11,7 @@ html {
     rgba(24, 24, 24, 0.233)
   );
 
-  --imp-text-color: #c770f0;
+  --imp-text-color: #cb19f3;
 }
 
 .purple {
@@ -282,17 +282,17 @@ button:focus {
 }
 
 .main-name {
-  color: #f85ff8;
+  color: #cb19f3;
 }
 
 .Typewriter__wrapper {
   font-size: 2.2em !important;
-  color: #f85ff8 !important;
+  color: #cb19f3 !important;
   font-weight: 600 !important;
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
-  color: #f85ff8 !important;
+  color: #cb19f3 !important;
 }
 
 @media (max-width: 767px) {
@@ -372,7 +372,7 @@ button:focus {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: #ad2fa9;
+  background: #cb19f3;
   transition: 0.5s;
   transform: scale(0.9);
   z-index: -1;
@@ -380,13 +380,13 @@ button:focus {
 
 .home-social-icons:hover::before {
   transform: scale(1.1);
-  box-shadow: 0 0 15px #e566e7;
+  box-shadow: 0 0 15px #cb19f3;
 }
 
 .home-social-icons:hover {
   color: #bb4bb5;
-  box-shadow: 0 0 5px #a62ea0;
-  text-shadow: 0 0 2px #b036ac;
+  box-shadow: 0 0 5px #cb19f3;
+  text-shadow: 0 0 2px #cb19f3;
 }
 
 .social-icons {
@@ -396,7 +396,7 @@ button:focus {
 }
 
 .icon-colour {
-  color: #d63ad6 !important;
+  color: #cb19f3 !important;
 }
 
 /* --------- */
@@ -525,8 +525,8 @@ button:focus {
 
 .btn-primary:hover {
   color: #fff !important;
-  background-color: #f85ff8 !important;
-  border-color: #f85ff8 !important;
+  background-color: #cb19f3 !important;
+  border-color: #cb19f3 !important;
 }
 .btn:focus {
   outline: none !important;
@@ -646,7 +646,7 @@ button:focus {
 .resume .resume-item {
   padding: 0 0 10px 25px;
   margin-top: -2px;
-  border-left: 2px solid #f85ff8;
+  border-left: 2px solid #cb19f3;
   position: relative;
 }
 
@@ -719,26 +719,4 @@ button:focus {
   100% {
     transform: scale(1);
   }
-}
-
-.fork-btn {
-  font-size: 1.1em !important;
-  padding-top: 10px !important;
-}
-
-.fork-btn-inner {
-  line-height: 1.4em !important;
-  background-color: #934cce5e !important;
-  padding: 0.25rem 1.1rem !important;
-  vertical-align: middle !important;
-  text-align: center !important;
-}
-
-.fork-btn-inner:hover {
-  transform: translateY(-2px) !important;
-  background-color: #a24dd386 !important;
-  border-color: #a24dd386 !important;
-}
-.fork-btn-inner::after {
-  display: none !important;
 }
