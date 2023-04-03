@@ -7,8 +7,8 @@ html {
 
   --image-gradient: linear-gradient(
     to bottom left,
-    rgba(17, 16, 16, 0.224),
-    rgba(24, 24, 24, 0.233)
+    rgba(17, 16, 16, 0),
+    rgba(24, 24, 24, 0)
   );
 
   --imp-text-color: #cb19f3;
@@ -272,7 +272,7 @@ button:focus {
 }
 
 .heading {
-  font-size: 2.4em !important;
+  font-size: 4.4em !important;
   padding-left: 50px !important;
 }
 
