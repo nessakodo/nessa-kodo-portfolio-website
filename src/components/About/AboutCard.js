@@ -16,18 +16,18 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> &nbsp; Producing Music
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> &nbsp; Practicing Flow Arts
+              <ImPointRight /> &nbsp; Producing music
             </li>
             <li className="about-activity"> 
-              <ImPointRight /> &nbsp; Travelling
+              <ImPointRight /> &nbsp; Fire Flow Artistry
+            </li>
+            <li className="about-activity"> 
+              <ImPointRight /> &nbsp; Adventuring Outside
             </li>
           </ul>
           <br />
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Let your passion for creation and curiosity for innovation guide you on the path to greatness."{" "}
+          "Light the path to create masterpieces that captivate."{" "}
           </p>
           <footer className="blockquote-footer">Nessa Kodo</footer>
         </blockquote>

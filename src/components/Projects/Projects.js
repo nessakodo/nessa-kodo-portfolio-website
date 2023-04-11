@@ -25,8 +25,8 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              title="SmartHealth"
+              description="Decentralized application utilizing smart contracts to facilitate secure interactions between patients and corresponding healthcare providers using a secure authentication with Metamask/Coinbase wallets."
               ghLink="https://github.com/soumyajit4419/Chatify"
               demoLink="https://chatify-49.web.app/"
             />
@@ -36,8 +36,8 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              title="Interproz"
+              description="Translation staffing agency platform with opportunities for multilingual individuals to explore available job openings as facilitated by Interproz administrators. Also provides methods of contact and inquiry forms for clients seeking services."
               ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               demoLink="https://blogs.soumya-jit.tech/"
             />
@@ -47,8 +47,8 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              title="Cryptoad"
+              description="Live market crypto dashboard with user-generated watchlist, providing a variety of trading strategies for bot execution upon account and wallet connection, and customizing given parameters for the bot to execute orders."
               ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://editor.soumya-jit.tech/"              
             />
@@ -58,8 +58,8 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              title="Sonic Pi"
+              description="Music coded within the live coding synthesizer Sonic Pi, in which both internal and external sounds have been altered by code and combined to create new sounds that are infinitely changeable in a live performance setting."
               ghLink="https://github.com/soumyajit4419/Plant_AI"
               demoLink="https://plant49-ai.herokuapp.com/"
             />
@@ -69,10 +69,10 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              title="Groovy Galactic"
+              description="Custom portfolio website for a local artist showcasing their use of different mediums, offering visitors the opportunity to purchase digital and physical items through WooCommerce."
               ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" 
             />
           </Col>
 
@@ -80,11 +80,10 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
+              title="Butterfleye"
+              description="NFT collection and project based off of AI generated art creations and integrations. Crafted to be dynamic and utilized in a variety of ecommerce contexts and forms."
               ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
         </Row>

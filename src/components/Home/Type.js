@@ -8,6 +8,7 @@ function Type() {
         strings: [
           "Software Engineer",
           "Blockchain Developer",
+          "Agile DevOps Engineer",
           "Developer Relations",
           "Live Code Musician",
 
