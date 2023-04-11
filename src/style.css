@@ -267,7 +267,7 @@ button:focus {
 }
 
 .home-content {
-  padding: 12rem 0 12rem !important;
+  padding: 15rem 0 15rem !important;
   color: rgb(0, 0, 0);
   text-align: left;
 }
@@ -280,6 +280,7 @@ button:focus {
 .heading-name {
   font-size: 4.2em !important;
   padding-left: 50px !important;
+  padding-bottom: 25px !important;
   
 }
 
@@ -290,6 +291,7 @@ button:focus {
 .Typewriter__wrapper {
   font-size: 2em !important;
   color: #000000 !important;
+  padding-left: 50px !important;
   /* font-weight: 600 !important; */
 }
 .Typewriter__cursor {
@@ -308,17 +310,17 @@ button:focus {
   }
 }
 
-.myAvtar {
+/* .myAvtar {
   justify-content: center !important;
   padding-top: 9em !important;
-}
-
+} */
+/* 
 @media (max-width: 767px) {
   .myAvtar {
     padding-top: 2em !important;
     padding-bottom: 2em !important;
   }
-}
+} */
 
 .home-about-section {
   position: relative;

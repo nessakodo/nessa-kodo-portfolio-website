@@ -27,8 +27,8 @@ function Projects() {
               isBlog={false}
               title="SmartHealth"
               description="Decentralized application utilizing smart contracts to facilitate secure interactions between patients and corresponding healthcare providers using a secure authentication with Metamask/Coinbase wallets."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com"
+              demoLink=""
             />
           </Col>
 
@@ -38,8 +38,8 @@ function Projects() {
               isBlog={false}
               title="Interproz"
               description="Translation staffing agency platform with opportunities for multilingual individuals to explore available job openings as facilitated by Interproz administrators. Also provides methods of contact and inquiry forms for clients seeking services."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com"
+              demoLink=""
             />
           </Col>
 
@@ -49,8 +49,8 @@ function Projects() {
               isBlog={false}
               title="Cryptoad"
               description="Live market crypto dashboard with user-generated watchlist, providing a variety of trading strategies for bot execution upon account and wallet connection, and customizing given parameters for the bot to execute orders."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              ghLink="https://github.com"
+              demoLink=""              
             />
           </Col>
 
@@ -60,8 +60,8 @@ function Projects() {
               isBlog={false}
               title="Sonic Pi"
               description="Music coded within the live coding synthesizer Sonic Pi, in which both internal and external sounds have been altered by code and combined to create new sounds that are infinitely changeable in a live performance setting."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              ghLink="https://github.com"
+              demoLink=""
             />
           </Col>
 
@@ -71,8 +71,8 @@ function Projects() {
               isBlog={false}
               title="Groovy Galactic"
               description="Custom portfolio website for a local artist showcasing their use of different mediums, offering visitors the opportunity to purchase digital and physical items through WooCommerce."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" 
+              ghLink="https://github.com"
+              demoLink="" 
             />
           </Col>
 
@@ -82,8 +82,8 @@ function Projects() {
               isBlog={false}
               title="Butterfleye"
               description="NFT collection and project based off of AI generated art creations and integrations. Crafted to be dynamic and utilized in a variety of ecommerce contexts and forms."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com"
+              demoLink=""
             />
           </Col>
         </Row>
